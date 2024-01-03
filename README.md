@@ -12,7 +12,8 @@ A simple discord bot test that converts voice to text and sends it to a channel.
 1. Create a discord bot and add it to your server.
 ⚠️ Server Members Intent and Message Content Intent must be enabled in your [Discord Developer Bot Settings](https://discord.com/developers/applications)
 
-    ![image](https://github.com/Tharushan/DiscordVoiceToText/assets/11042364/5280f947-b555-4aa4-a38f-6ed3801e7ee0)
+    ![image](https://github.com/Tharushan/DiscordVoiceToText/assets/11042364/d1c3b935-4f0d-4aa3-8f9a-b14679163e9f)
+
 
 3. Create a [wit.ai](https://wit.ai) account and app and get the token.
 4. Copy .env.example to .env and fill in the values.
